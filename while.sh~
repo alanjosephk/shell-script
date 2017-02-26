@@ -1,7 +1,0 @@
-#!/bin/sh
-x=0
-while [ $x -lt 10 ]
-do
-   echo $x
-   x=`expr $ + 1`
-done
